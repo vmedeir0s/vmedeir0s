@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vmedeir0s&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmedeir0s&langs_count=16&theme=vue-dark"/>
 </div>
-<div style="display: inline_block; text-align: center" ><br>
+<div style="display: inline-block; text-align: center" ><br>
   <img align="center" alt="HTML" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img align="center" alt="CSS" heigh="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
