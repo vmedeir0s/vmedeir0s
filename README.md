@@ -12,7 +12,7 @@
   <img align="center" alt="CSS" heigh="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Bootstrap" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  <img align="center" alt="Jest" heigh="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center" alt="Jest" heigh="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 </div>
 
 ##
