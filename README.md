@@ -7,7 +7,7 @@
       <li>🌱 Atualmente estudo a criação de API's com Node.js, Express.js, TypeScript e MongoDB</li>
       <li>💚 Apaixonado por tecnologia</li>
       <li>🎲 Meus passatempos favoritos são jogar xadrez, jogos de carta e a pescaria</li>
-      <li>🎧 Meu gosto musical é variado no momento estou ouvindo esta playlist: <a href="https://open.spotify.com/playlist/5S1Io7f85MalkteLPXhO1Q?si=c41167dd3db14d43" target="_blank">2022</a></li>
+      <li>🎧 Meu gosto musical é variado no momento estou ouvindo esta playlist: <a href="https://open.spotify.com/playlist/5S1Io7f85MalkteLPXhO1Q?si=c41167dd3db14d43" target="_blank" >2022</a></li>
     </ul>
 </div>
 
