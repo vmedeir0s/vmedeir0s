@@ -35,10 +35,9 @@
   <img align="center" alt="Python" heigh="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
           
 </div>
-</div>
-
 <div>
   <h2>🔥 GitHub Stats:</h2>
+  <img src="https://en1ndb4r0kfj6gw.m.pipedream.net" />
   <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vmedeir0s&theme=dark&locale=pt-br"/></a>
   </p>
