@@ -4,10 +4,9 @@
    <h2>🧑‍💻 Sobre mim:</h2>
     <ul>
       <li>🔭 Estou em transição da carreira de Administrador para Desenvolvedor Web 🚀</li>
-      <li>🌱 Atualmente estudo a criação de API's com Node.js, Express.js, TypeScript e MongoDB</li>
+      <li>🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Unoeste</li>
       <li>💚 Apaixonado por tecnologia</li>
-      <li>🎲 Meus passatempos favoritos são jogar xadrez, jogos de carta e a pescaria</li>
-      <li>🎧 Meu gosto musical é variado no momento estou ouvindo esta playlist: <a href="https://open.spotify.com/playlist/5S1Io7f85MalkteLPXhO1Q?si=c41167dd3db14d43" target="_blank" >2022</a></li>
+      <li>🎲 Meu passatempo favorito são jogos de cartas e tabuleiro</li>
     </ul>
 </div>
 
